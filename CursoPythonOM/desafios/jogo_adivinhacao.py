@@ -9,7 +9,7 @@ range
 """
 secreto = input('Digite a palavra secreta: ')
 digitadas = []
-chances = 3
+chances = 5
 
 while True:
     if chances <= 0:
